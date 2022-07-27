@@ -20,6 +20,6 @@ recognition, modelli di regressione, image analysis
 * [Risultati](https://github.com/mariagiovanna0/HEAD-POSE-ESTIMATION/blob/main/Integrazione.pdf)
 
 ## Developers
-* [Costante Marco](https://github.com/costantemarco1)
+* [Costante Marco](https://github.com/comarco99)
 * [Paolo Labanca](http://github.com/)
 * [Maria Giovanna Albanese](https://github.com/mariagiovanna0)
