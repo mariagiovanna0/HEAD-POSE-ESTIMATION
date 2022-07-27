@@ -1,2 +1,24 @@
-# HEAD-POSE-ESTIMATION-Fractal-Image-Compression-with-QuadTree-Decomposition-using-EFA-and-PCA
-Progetto realizzato durante il corso di Fondamenti di Visione Artificiale e Biometria (Università degli studi di Salerno)
+[![N|Solid](https://ibb.co/37TSnkP)]()
+
+
+## Description
+In questo articolo è stata
+ampliata la strategia basata sulla teoria della codifica
+frattale ottimizzata con quadtree, al fine di elaborare
+tecniche aggiuntive per ridimensionare e ottimizzare le
+codifiche risultanti dall’algoritmo. La sperimentazione,
+eseguita sul dataset Biwi mediante modelli di regressione,
+è stata infine confrontata con gli approcci già esistenti.
+
+
+## Keywords
+Head Pose Estimation, codifica frattale, face
+recognition, modelli di regressione, image analysis
+
+## Risultati
+* [Risultati](https://github.com/mariagiovanna0/HEAD-POSE-ESTIMATION/blob/main/Integrazione.pdf)
+
+## Developers
+* [Costante Marco](https://github.com/costantemarco1)
+* [Paolo Labanca](http://github.com/)
+* [Maria Giovanna Albanese](https://github.com/mariagiovanna0)
